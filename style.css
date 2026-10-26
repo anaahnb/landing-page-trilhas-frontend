@@ -45,3 +45,11 @@ body {
     background-color: #80df83;
     cursor: pointer;
 }
+
+footer {
+    margin-top: 64px;
+    background-color: #4CAF4F;
+    text-align: center;
+    padding: 16px;
+    color: #FFFFFF;
+}
