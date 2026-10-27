@@ -46,6 +46,10 @@ body {
     cursor: pointer;
 }
 
+.cardSection {
+    text-align: center;
+}
+
 footer {
     margin-top: 64px;
     background-color: #4CAF4F;
